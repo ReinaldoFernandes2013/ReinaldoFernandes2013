@@ -1,4 +1,4 @@
-## Hi there, I'm Reinaldo, Q,A Enginer.
+## Hi there, I'm Reinaldo, QA Engineer.
 
 <div align="center">
   <a href="https://github.com/ReinaldoFernandes2013">
